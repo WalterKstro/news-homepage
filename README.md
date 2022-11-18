@@ -6,7 +6,7 @@ This is a solution to the [News homepage challenge on Frontend Mentor](https://w
 ### Links
 
 - Solution URL: [Add solution URL here](https://github.com/WalterKstro/news-homepage)
-- Live Site URL: [Add live site URL here](https://walterkstro.github.io/news-homepage/)
+- Live Site URL: [Add live site URL here](https://walterkstro.github.io/news-homepage/src/)
 
 ## My process
 
